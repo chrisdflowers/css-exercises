@@ -1,0 +1,16 @@
+/* style.css */
+
+.regular, 
+.special {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.regular {
+    background-color: black;
+    color: white;
+}
+
+.special {
+    background-color: yellow;
+}
